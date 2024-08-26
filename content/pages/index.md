@@ -94,7 +94,7 @@ sections:
       journey. So, before you hit the road on your next adventure, make sure to
       pack a set of walkie-talkies. You’ll be glad you did!
     actions:
-      - label: Get started
+      - label: ''
         altText: ''
         url: /
         showIcon: false
