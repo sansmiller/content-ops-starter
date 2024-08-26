@@ -56,7 +56,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: ''
     text: >+
       Going on a road trip is always an exciting adventure. Whether you’re
       traveling with family or friends, the open road brings a sense of freedom
