@@ -100,15 +100,6 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: ''
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
         style: primary
         elementId: ''
         type: Link
