@@ -57,7 +57,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >+
+    text: >
       Going on a road trip is always an exciting adventure. Whether you’re
       traveling with family or friends, the open road brings a sense of freedom
       and fun. But what if you lose cell phone service or need to communicate
@@ -77,9 +77,9 @@ sections:
 
       Imagine you’re driving through a scenic mountain pass, and your phone
       suddenly loses signal. With [walkie
-      talkie](https://www.bhartitec.ae/communication/walkie-talkie/), you can
-      still chat with the other car in your group, make plans for the next stop,
-      or even give a heads-up about a cool sight along the way.
+      talkie](https://www.bhartitec.ae/comms/walkie-talkie-uae/), you can still
+      chat with the other car in your group, make plans for the next stop, or
+      even give a heads-up about a cool sight along the way.
 
 
       **Quick and Easy Communication Between Cars**
@@ -138,9 +138,6 @@ sections:
       keep you connected, enhance safety, and add an element of fun to your
       journey. So, before you hit the road on your next adventure, make sure to
       pack a set of walkie-talkies. You’ll be glad you did!
-
-
-
     badge:
       label: ''
       color: text-primary
