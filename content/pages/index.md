@@ -122,8 +122,8 @@ sections:
       them to chat with each other from different parts of the car or between
       vehicles. They can pretend they’re on a secret mission, playing games, or
       just enjoying the novelty of using a walkie-talkie. For adults, [walkie
-      talkie](https://www.bhartitec.ae/communication/walkie-talkie/) adds an
-      extra layer of excitement to the road trip, making it feel more like an
+      talkie](https://www.bhartitec.ae/comms/walkie-talkie-uae/) adds an extra
+      layer of excitement to the road trip, making it feel more like an
       adventure.
 
 
